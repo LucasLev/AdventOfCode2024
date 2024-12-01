@@ -164,3 +164,4 @@ cython_debug/
 
 # AoC Special
 input.txt
+*.txt
